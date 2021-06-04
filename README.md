@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Projects
-  # [BulletHell](https://github.com/ozdeger/BulletHell)
+  #### [BulletHell](https://github.com/ozdeger/BulletHell)
     * 
-  # [BUGameJam](https://github.com/ozdeger/BUGameJam)
+  #### [BUGameJam](https://github.com/ozdeger/BUGameJam)
     * Bla bla
-  # [Http web server using c](https://github.com/talhaucarr/http-web-server-using-c)
+  #### [Http web server using c](https://github.com/talhaucarr/http-web-server-using-c)
     * Bla bla
-  # [System programming homeworks](https://github.com/talhaucarr/system-programming-homeworks)
+  #### [System programming homeworks](https://github.com/talhaucarr/system-programming-homeworks)
     * Bla bla
-  # [Games Tracker](https://github.com/talhaucarr/games-tracker)
+  #### [Games Tracker](https://github.com/talhaucarr/games-tracker)
     * Bla bla
-  # [METUZA](https://github.com/talhaucarr/METUZA)
+  #### [METUZA](https://github.com/talhaucarr/METUZA)
     * Bla bla
-  # [Student Automation](https://github.com/talhaucarr/-Student-Automation)
+  #### [Student Automation](https://github.com/talhaucarr/-Student-Automation)
     * Bla bla
-  # [xKral-TR-DiscordBot](https://github.com/talhaucarr/xKral_Tr-DiscordBot)
+  #### [xKral-TR-DiscordBot](https://github.com/talhaucarr/xKral_Tr-DiscordBot)
     * Bla bla
-  # [JavaFX Simple Mp3 Player](https://github.com/talhaucarr/javafx-simple-mp3player)
+  #### [JavaFX Simple Mp3 Player](https://github.com/talhaucarr/javafx-simple-mp3player)
     * Bla bla
-  # [Urban Transformation](https://github.com/talhaucarr/-Urban-Transformation)
+  #### [Urban Transformation](https://github.com/talhaucarr/-Urban-Transformation)
     * Bla bla
-  # [8x8 Arduino Snake Game](https://github.com/talhaucarr/8x8-Arduino-Snake)
+  #### [8x8 Arduino Snake Game](https://github.com/talhaucarr/8x8-Arduino-Snake)
     * Bla bla
   
