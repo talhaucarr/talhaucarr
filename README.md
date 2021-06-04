@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-<a href = "https://www.python.org/"><img height="40" src="./images/python"></a>
+<a href = "https://www.python.org/"><img height="40" src="./images/python.png"></a>
 
 
 </p>
