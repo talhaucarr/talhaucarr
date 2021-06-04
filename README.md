@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> 
 
-<a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
 
-<a href = "https://unity.com/"><img height="40" src="./images/ut.jph">
+<img height="40" src="./images/unity3d.jpg">
 <img height="40" src="./images/c++.png">
-<img height="40" src="./images/c#.jpg">
+<img height="40" src="./images/c#.png">
 <img height="40" src="./images/c.png">
 
 
