@@ -19,16 +19,10 @@ Here are some ideas to get you started:
 ## Languages and Tools
 <p> 
 
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
-
 <img height="40" src="./images/unity3d.png">
 <img height="40" src="./images/c++.png">
 <img height="40" src="./images/sharp.png">
 <img height="40" src="./images/c.png">
-
-
-
-
 <img height="40" src="./images/python.jpg">
 
 
