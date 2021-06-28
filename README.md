@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <td align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaucarr&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
       
-    </td>
+    
   <td align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaucarr&theme=radical" />
   </td>
