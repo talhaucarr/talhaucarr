@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 ## Spotify Playing 🎧
 
 
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />]
+(https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
 -->
+
+
 <table>
   <tr>
     <td align="center">
@@ -48,10 +50,15 @@ Here are some ideas to get you started:
 ## Connect
 <br>
     <a href="mailto:talhaucarr@hotmail.com">
-    <img align="left" alt="Gökay Özdeğer | Linkedin" width="115px" src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a> &nbsp;&nbsp;
+    <img align="left" alt="Mail" width="115px" src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a> 
+  &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/talhaucarr/">
-    <img align="left" alt="Gökay Özdeğer | Gmail" width="160px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="left" alt="LinkedIn" width="160px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   &nbsp;&nbsp;
+    <a href="https://discord.gg/FSb23qaXcX">
+    <img align="left" alt="Discord" width="160px" src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
 
