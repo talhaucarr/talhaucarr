@@ -49,15 +49,15 @@ Here are some ideas to get you started:
 
 ## Contact
 <br>
-    <a href="mailto:talhaucarr@hotmail.com">
+    <a href="mailto:talhaucarr@hotmail.com" target="_blank">
     <img align="left" alt="Mail" width="115px" src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a> 
   &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/talhaucarr/">
+    <a href="https://www.linkedin.com/in/talhaucarr/" target="_blank">
     <img align="left" alt="LinkedIn" width="160px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    &nbsp;&nbsp;
-    <a href="https://discord.gg/FSb23qaXcX">
+    <a href="https://discord.gg/FSb23qaXcX" target="_blank">
     <img align="left" alt="Discord" width="160px" src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
