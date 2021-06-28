@@ -12,12 +12,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## Spotify Playing 🎧
+
+
+
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
 -->
   <tr>
     <td align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaucarr&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaucarr&theme=radical" />
+      
     </td>
+  <td align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaucarr&theme=radical" />
+  </td>
 
   </tr>
 
