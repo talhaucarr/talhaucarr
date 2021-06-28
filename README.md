@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
 -->
+<table>
   <tr>
     <td align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaucarr&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
   </td>
 
   </tr>
-
+</table>
 
 ## Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
