@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
   <tr>
     <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaucarr&show_icons=true&theme=dracula" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaucarr&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaucarr&theme=radical" />
     </td>
 
   </tr>
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
