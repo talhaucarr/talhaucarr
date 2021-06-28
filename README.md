@@ -45,4 +45,17 @@ Here are some ideas to get you started:
 ![Procreate](https://img.shields.io/badge/-Procreate-05122A?style=flat&logo=procreate)&nbsp;
 
 
+### ☎️ &nbsp;Connect with me
+<br>
+    <a href="mailto:talhaucarr@hotmail.com">
+    <img align="left" alt="Gökay Özdeğer | Linkedin" width="115px" src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/talhaucarr/">
+    <img align="left" alt="Gökay Özdeğer | Gmail" width="160px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+
+<br><br>
+
+
 
