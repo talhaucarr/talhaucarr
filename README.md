@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C#](https://img.shields.io/badge/-C-Sharp-05122A?style=flat&logo=c-sharp)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![SQL](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Procreate](https://img.shields.io/badge/-Procreate-05122A?style=flat&logo=procreate)&nbsp;
