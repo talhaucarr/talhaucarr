@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=talhaucarr&show_icons=true&theme=dracula" />
+    </td>
+
+  </tr>
+</table>
+
+⭐️ From [benyou1969](https://github.com/benyou1969)
+
 
   
 ## Languages and Tools
