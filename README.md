@@ -64,5 +64,13 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<!-- TABLE_GENERATE_START -->
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+<!-- TABLE_GENERATE_END -->
 
 
